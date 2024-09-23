@@ -6,4 +6,6 @@
 
 .container {
     border: 1px solid black;
+    margin: 50% auto;
+    width: 500px;
 }
